@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Aaplloo
-🌱 I’m currently learning all stuff concerning Computer Science.
+🌱 I’m currently learning all stuff concerning Computer Science.  
 Though late start, try working harder.
 
 <!--
