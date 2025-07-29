@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Aaplloo
+🌱 I’m currently learning all stuff concerning Computer Science.
+Though late start, try working harder.
 
 <!--
 **Aaplloo/Aaplloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
