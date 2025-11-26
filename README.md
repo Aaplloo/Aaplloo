@@ -38,7 +38,7 @@
 ### 📊 My GitHub Stats
 
 [![GitHub Total Stars](https://img.shields.io/github/stars/Aaplloo?label=Stars&style=flat-square)](https://github.com/Aaplloo)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaplloo&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/Aaplloo)
+[![GitHub Total Stars](https://img.shields.io/github/stars/Aaplloo?label=Stars&style=flat-square)](https://github.com/Aaplloo)
 -----
 
 ### 📬 Get in Touch
