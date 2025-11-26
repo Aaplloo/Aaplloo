@@ -37,7 +37,7 @@
 
 ### 📊 My GitHub Stats
 
-[![GitHub Total Stars](https://img.shields.io/github/stars/Aaplloo?label=Stars&style=flat-square)](https://github.com/Aaplloo)
+[![GitHub Followers](https://img.shields.io/github/followers/Aaplloo?label=Follow&style=flat-square)](https://github.com/Aaplloo)
 [![GitHub Total Stars](https://img.shields.io/github/stars/Aaplloo?label=Stars&style=flat-square)](https://github.com/Aaplloo)
 -----
 
