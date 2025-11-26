@@ -35,13 +35,13 @@
 
 -----
 
-### 📊 GitHub 统计 (My GitHub Stats)
+### 📊 My GitHub Stats
 
-[![Aaplloo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaplloo&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/Aaplloo)
+[![GitHub Total Stars](https://img.shields.io/github/stars/Aaplloo?label=Stars&style=flat-square)](https://github.com/Aaplloo)
 
 -----
 
-### 📬 与我联系 (Get in Touch)
+### 📬 Get in Touch
 
 欢迎通过以下方式与我交流，无论是关于编程、学业还是其他有趣的话题！
 
